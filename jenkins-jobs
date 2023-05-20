@@ -85,3 +85,7 @@ job('ansible-users-db-dsl') {
         mailer('akhilkarvanje@gmail.com', true, true)
     }
 }
+
+ job('job_dsl_example') {
+	 description('Test  project')
+}
