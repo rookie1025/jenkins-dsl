@@ -86,6 +86,6 @@ job('ansible-users-db-dsl') {
     }
 }
 
- job('job_dsl_test_420') {
+ job('kya_devops_banega_re_tu') {
 	 description('Test  project')
 }
